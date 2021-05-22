@@ -10,6 +10,6 @@
 
 
 ##  For those who want to see or download PSD file for this web page: ##
-######  https://www.graphberry.com/item/leon-psd-agency-template  ######
+######  https://www.graphberry.com/item/kasper-one-page-psd-template  ######
 
 
