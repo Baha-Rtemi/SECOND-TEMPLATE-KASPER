@@ -157,9 +157,6 @@ header .container nav ul li a {
   text-decoration: none;
   font-size: 14px;
   transition: 0.3s;
-  /* z-idex & Position-relative 
-  لازم اكون مع بعض لكي يكون اللون ظاهر علي
-  border-bottom */
   position: relative;
   z-index: 1;
 }
@@ -186,7 +183,6 @@ header .container nav .form i {
 /* Start Landing */
 .landing {
   min-height: 100vh;
-  /* في حالة عدم ظهور الصوره يظهر اللون  */
   background-color: #1f2021;
   background-image: url("../images/landing.jpg");
   background-size: cover;
@@ -497,7 +493,6 @@ header .container nav .form i {
 .about img {
   position: relative;
   bottom: -120px;
-  /* عملنها من اجل جعل المسافه بين الصوره و العنوان ثابت margin-top */
   margin-top: -120px;
   max-width: 100%;
 }
