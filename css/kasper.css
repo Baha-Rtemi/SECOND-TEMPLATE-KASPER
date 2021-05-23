@@ -49,10 +49,6 @@ li {
   padding: 100px;
   text-align: center;
 }
-@media (max-width: 768px) {
-.main-heading {
-  padding: 50px;
-}
 } 
 .main-heading h2 {
   font-weight: normal;
@@ -60,10 +56,6 @@ li {
   position: relative;
   margin-bottom: 70px;
   text-transform: uppercase;
-}
-@media (max-width: 768px) {
-.main-heading h2 {
-  margin-right: 10px;
 }
 .main-heading h2::before {
   content: "";
