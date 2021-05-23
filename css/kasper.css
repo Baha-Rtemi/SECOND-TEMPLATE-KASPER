@@ -49,6 +49,11 @@ li {
   padding: 100px;
   text-align: center;
 }
+@media (max-width: 768px) {
+.main-heading {
+  padding: 50px;
+}
+} 
 .main-heading h2 {
   font-weight: normal;
   font-size: 40px;
