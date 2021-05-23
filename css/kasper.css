@@ -94,6 +94,11 @@ li {
   line-height: 2;
   color: #777;
 }
+@media (max-width: 768px) {
+.main-heading p {
+  width: 570px;
+} 
+} 
 /* End Components */
 /* Start Header */
 header {
