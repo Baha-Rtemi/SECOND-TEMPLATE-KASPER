@@ -61,6 +61,10 @@ li {
   margin-bottom: 70px;
   text-transform: uppercase;
 }
+@media (max-width: 768px) {
+.main-heading h2 {
+  margin-right: 10px;
+}
 .main-heading h2::before {
   content: "";
   height: 2px;
