@@ -233,7 +233,11 @@ header .container nav .form i {
 @media (max-width: 768px) {
   .landing .text .content {
     max-width: 100%;
+<<<<<<< HEAD
+    max-height: 200px;
+=======
     max-height: 300px;
+>>>>>>> 909c8e15fa3768bb09590cc9fa92f8fd149a98ef
   }
 }
 .landing .text .content h2 {
